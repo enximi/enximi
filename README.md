@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @enximi
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python, java, golang, js...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web programming and embedded programming.
+- 🌱 I’m currently learning python, rust, js
 
 <!---
 enximi/enximi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
